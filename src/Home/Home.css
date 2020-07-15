@@ -1,0 +1,53 @@
+
+.jumbotron{
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#data h2{
+color:red;
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+}
+#head{
+    font-family: Courier New;
+   
+
+    font-size: 400%;
+  background-size: cover;
+  background-repeat: no-repeat;
+    text-align: center;
+    color:deepskyblue;
+   
+}
+ 
+  
+  
+  #cases p{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+  }
+  #recovered p {
+    font-family:Comic Sans MS;
+
+  }
+  #background{
+    opacity: 0.6;
+  }
+
+   
+  
+ 
+  #deaths p{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+  }
+  #recovered p {
+    font-family:Comic Sans MS;
+
+  }
+  #background{
+    opacity: 0.6;
+  }
